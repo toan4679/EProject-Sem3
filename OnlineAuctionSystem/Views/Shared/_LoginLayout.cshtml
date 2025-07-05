@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] – Artmart</title>
+    <link rel="icon" href="~/assets_login/img/fav-icon.svg" type="image/svg+xml" />
+
+    <!-- CSS template -->
+    <link rel="stylesheet" href="@(Url.Content("~/assets_login/css/bootstrap.min.css"))" />
+    <link rel="stylesheet" href="@(Url.Content("~/assets_login/fonts/font-awesome/css/font-awesome.min.css"))" />
+    <link rel="stylesheet" href="@(Url.Content("~/assets_login/fonts/flaticon/font/flaticon.css"))" />
+    <link rel="stylesheet" href="@(Url.Content("~/assets_login/css/style.css"))" />
+
+    @RenderSection("Styles", required: false)
+</head>
+
+<body id="top">
+    <div class="page_loader"></div>
+
+    @RenderBody()
+
+    <!-- JS template -->
+    <script src='@Url.Content("~/assets_login/js/jquery-3.6.0.min.js")'></script>
+    <script src='@Url.Content("~/assets_login/js/bootstrap.bundle.min.js")'></script>
+    <script src='@Url.Content("~/assets_login/js/jquery.validate.min.js")'></script>
+    <script src='@Url.Content("~/assets_login/js/app.js")'></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+
+</html>

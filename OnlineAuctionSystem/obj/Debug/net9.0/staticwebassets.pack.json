@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\OnlineAuctionSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineAuctionSystem.dr00k7weah.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\certificate-pdf-image.pdf",
+      "PackagePath": "staticwebassets\\assets\\certificate-pdf-image.pdf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\bootstrap-icons0107.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\bootstrap-icons0107.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\bootstrap-icons0107.woff2",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\bootstrap-icons0107.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\fonts\\slickd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts\\slickd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\fav-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\fav-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\footer-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\header-logo-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\header-logo-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\header-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\header-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\about-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\about-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\about-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\about-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\article-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\article-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img10.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img7.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img8.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artist-img9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artist-img9.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\artistic-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\artistic-img.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\feature-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\feature-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\general-art-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\general-art-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\home1-banner-bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banner-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\home1-banner-bg2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banner-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\home1-banner-bg3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\home1-banner-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\icon\\american-express.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\american-express.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\icon\\maestro.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\maestro.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\icon\\master-card.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\master-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\icon\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\icon\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-artists-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-artists-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-artists-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-artists-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-artists-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-artists-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-artists-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-artists-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-artists-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-artists-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-artists-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-artists-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-auction-card-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-auction-card-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\menu-auction-card-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\menu-auction-card-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\testimonial-author-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\testimonial-author-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\testimonial-author-img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\testimonial-author-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\testimonial-author-img3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\testimonial-author-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\testimonial-author-img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\testimonial-author-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\testimonial-author-img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\testimonial-author-img5.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\testimonial-author-img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\testimonial-author-img6.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home1\\upcoming-auction-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home1\\upcoming-auction-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\category-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\category-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\home2-about-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\home2-artistic-banner-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-artistic-banner-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\home2-artistic-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-artistic-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\home2-banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\home2-feature-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-feature-img.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\home2\\home2-testimonial-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home2\\home2-testimonial-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\articel-author-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\articel-author-image.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\articel-details-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\articel-details-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\articel-details-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\articel-details-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\articel-details-image3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\articel-details-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\article-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\article-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\article-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\article-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\artist-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\artist-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\artist-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\artist-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\artist-img12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\artist-img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\artist-img13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\artist-img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-details-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-details-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\auction-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\auction-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\author-profile-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\author-profile-image.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\breadcrumb-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\breadcrumb-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\breadcrumb-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\breadcrumb-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\breadcrumb-image3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\breadcrumb-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\certificate-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\certificate-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\comment-author-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\comment-author-image.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\comment-author-image2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\comment-author-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\discover-section-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\discover-section-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\discover-section-image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\discover-section-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\general-art-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\general-art-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\general-art-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\general-art-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\how-to-bid-video-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\how-to-bid-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\icon\\checkbox-check.html",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\icon\\checkbox-check.html"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\icon\\checkbox-icon-black.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\icon\\checkbox-icon-black.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\icon\\checkbox-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\icon\\checkbox-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\icon\\info-after.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\icon\\info-after.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\icon\\info-before.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\icon\\info-before.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image3.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image4.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image5.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image6.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image7.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\order-image8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\order-image8.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\payment-image.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\payment-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\payment-image2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\payment-image2.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\payment-image3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\payment-image3.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\payment-image4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\payment-image4.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image3.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image4.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image5.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image6.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image7.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image8.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\img\\inner-page\\sidebar-image9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\inner-page\\sidebar-image9.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\jquery.marquee.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.marquee.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\range-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets_login\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets_login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets_login\\fonts\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\animated-text-2.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\animated-text-2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\animated-text-3.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\animated-text-3.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\animated-text.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\animated-text.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets_login\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-10.svg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-11.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-12.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-15.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-18.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-19.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-20.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-21.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-22.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-23.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-23.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-31.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-35.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-35.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-39.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-39.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-40.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-40.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-50.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-50.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-53.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-53.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-54.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-54.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-55.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-55.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-65.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-7.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-8.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\img-9.jpg",
+      "PackagePath": "staticwebassets\\assets_login\\img\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\img\\logos\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets_login\\img\\logos\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets_login\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets_login\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets_login\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\assets_login\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets_login\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\docs\\ChiTietTTHC_1.001456.doc",
+      "PackagePath": "staticwebassets\\docs\\ChiTietTTHC_1.001456.doc"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\docs\\Môn thầy Thành.docx",
+      "PackagePath": "staticwebassets\\docs\\Môn thầy Thành.docx"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\uploads\\576a4ded-a7e1-42a7-95d6-67ec2b3f0193.jpg",
+      "PackagePath": "staticwebassets\\uploads\\576a4ded-a7e1-42a7-95d6-67ec2b3f0193.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\uploads\\demo1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\demo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\uploads\\demo2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\demo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\toan4\\OnlineAuctionSystem\\wwwroot\\uploads\\demo3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\demo3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OnlineAuctionSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OnlineAuctionSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.OnlineAuctionSystem.props",
+      "PackagePath": "build\\OnlineAuctionSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineAuctionSystem.props",
+      "PackagePath": "buildMultiTargeting\\OnlineAuctionSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.OnlineAuctionSystem.props",
+      "PackagePath": "buildTransitive\\OnlineAuctionSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,66 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-qhkkqaftxb] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-qhkkqaftxb] {
+  color: #0077cc;
+}
+
+.btn-primary[b-qhkkqaftxb] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-qhkkqaftxb], .nav-pills .show > .nav-link[b-qhkkqaftxb] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-qhkkqaftxb] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-qhkkqaftxb] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-qhkkqaftxb] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-qhkkqaftxb] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-qhkkqaftxb] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+.auction-card-img-wrap[b-qhkkqaftxb] {
+  width: 648px;
+  height: 495px;
+  overflow: hidden;
+  position: relative;
+}
+
+.auction-card-img-wrap img[b-qhkkqaftxb] {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  transform: translate(-50%, -50%);
+}
+
+

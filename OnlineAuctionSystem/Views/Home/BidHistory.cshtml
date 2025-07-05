@@ -1,0 +1,48 @@
+@model List<OnlineAuctionSystem.ViewModels.BidHistoryVm>
+@using System.Globalization
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Auction History: " + (ViewBag.ItemTitle ?? "");
+}
+
+<div class="container mt-5">
+    <h2>@ViewBag.Title</h2>
+
+    <!-- Quay lại trang chi tiết món hàng -->
+    <a asp-controller="Home"
+       asp-action="Details"
+       asp-route-id="@ViewBag.ItemId"
+       class="btn btn-link">
+        &laquo; Back to details
+    </a>
+
+    <table class="table table-bordered mt-3">
+        <thead class="table-light">
+            <tr>
+                <th>Setter</th>
+                <th>Auction amount</th>
+                <th>Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="3" class="text-center">No bids yet</td>
+                </tr>
+            }
+            else
+            {
+                foreach (var bid in Model)
+                {
+                    <tr>
+                        <td>@bid.BidderName</td>
+                        <td>@bid.BidAmount.ToString("C", CultureInfo.GetCultureInfo("en-US"))</td>
+                        <td>@bid.BidTime.ToString("g")</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

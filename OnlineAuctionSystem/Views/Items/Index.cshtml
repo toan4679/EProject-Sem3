@@ -1,0 +1,38 @@
+@model IEnumerable<OnlineAuctionSystem.Models.Item>
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "My Listings";
+}
+
+<div class="container mt-5">
+    <h2>@ViewData["Title"]</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success">@TempData["Success"]</div>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Min Bid</th>
+                <th>End Date</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Title</td>
+                <td>@item.Category.CategoryName</td>
+                <td>@item.MinimumBid.ToString("C")</td>
+                <td>@item.BidEndDate.ToLocalTime():yyyy-MM-dd HH:mm</td>
+                <td>@item.BidStatus</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

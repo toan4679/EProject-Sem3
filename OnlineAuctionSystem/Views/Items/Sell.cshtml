@@ -1,0 +1,108 @@
+@model OnlineAuctionSystem.ViewModels.SellItemViewModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Sell an Item";
+}
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var kv in ViewData.ModelState)
+            {
+                foreach (var err in kv.Value.Errors)
+                {
+                    <li>@err.ErrorMessage</li>
+                }
+            }
+        </ul>
+    </div>
+}
+
+<div class="container mt-5">
+    <h2>@ViewData["Title"]</h2>
+
+    <form asp-action="Sell" asp-controller="Items" method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken()
+
+        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success">@TempData["Success"]</div>
+        }
+
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label"></label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label"></label>
+            <select asp-for="CategoryId" asp-items="Model.Categories" class="form-select">
+                <option value="0">-- Select category --</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ArtistId" class="form-label"></label>
+            <select asp-for="ArtistId" asp-items="Model.ArtistList" class="form-select">
+                <option value="0">-- Select existing author --</option>
+            </select>
+            <span asp-validation-for="ArtistId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="NewArtistName" class="form-label"></label>
+            <input asp-for="NewArtistName" class="form-control" />
+            <span asp-validation-for="NewArtistName" class="text-danger"></span>
+            <div class="form-text">If the author isn’t listed above, you can enter a new name here.</div>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ImageFile" class="form-label"></label>
+            <input asp-for="ImageFile" type="file" class="form-control" />
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="DocumentFile" class="form-label"></label>
+            <input asp-for="DocumentFile" type="file" class="form-control" />
+            <span asp-validation-for="DocumentFile" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="StartingBid" class="form-label"></label>
+            <input asp-for="StartingBid" class="form-control" />
+            <span asp-validation-for="StartingBid" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="BidIncrement" class="form-label"></label>
+            <input asp-for="BidIncrement" class="form-control" />
+            <span asp-validation-for="BidIncrement" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="EndDate" class="form-label"></label>
+            <input asp-for="EndDate" type="datetime-local" class="form-control" />
+            <span asp-validation-for="EndDate" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary bg-dark text-white border-dark">List Item</button>
+    </form>
+</div>
+
+<div style="height: 80px;"></div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
